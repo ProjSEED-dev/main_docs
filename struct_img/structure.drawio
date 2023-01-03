@@ -1,0 +1,67 @@
+<mxfile host="65bd71144e">
+    <diagram id="c7vK5FcR2kVbPoGVOjvT" name="Page-1">
+        <mxGraphModel dx="2564" dy="1139" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Prometheous" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/mac_client.svg;" vertex="1" parent="1">
+                    <mxGeometry x="410" y="660" width="103.4" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Resource Site" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home_page.svg;" vertex="1" parent="1">
+                    <mxGeometry x="670" y="660" width="122.22" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Steal From" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.tailedArrow;dy1=10;dx1=16.6;notch=0;arrowHead=20;dx2=26.13;dy2=30;rotation=0;fillColor=none;fontColor=#ffffff;strokeColor=#006EAF;flipH=1;flipV=0;" vertex="1" parent="1">
+                    <mxGeometry x="513.4" y="685" width="153.4" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Temporary Content Buffer" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/data_jack.svg;" vertex="1" parent="1">
+                    <mxGeometry x="279.99999999999994" y="860" width="60.5" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Save To" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.tailedArrow;dy1=10;dx1=20;notch=0;arrowHead=20;dx2=19.21;dy2=21.73;rotation=-55;fillColor=none;fontColor=#ffffff;strokeColor=#006EAF;flipH=1;flipV=1;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="780" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Evergarden" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/mac_client.svg;" vertex="1" parent="1">
+                    <mxGeometry x="-50.2" y="850" width="103.4" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Transfer To" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.tailedArrow;dy1=10;dx1=20;notch=0;arrowHead=20;dx2=25;dy2=30;rotation=0;fillColor=none;fontColor=#ffffff;strokeColor=#006EAF;flipH=1;" vertex="1" parent="1">
+                    <mxGeometry x="60.00000000000001" y="870" width="214.24" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="DB For Content Management" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/databases.svg;" vertex="1" parent="1">
+                    <mxGeometry x="-180" y="1150" width="112.25" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Disk For Content" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/data_jack.svg;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="1150" width="66" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.triadArrow;dy=10;dx=20;arrowHead=25.33;fillColor=none;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+                    <mxGeometry x="-47" y="990" width="97" height="230" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Window" style="swimlane;" vertex="1" parent="1">
+                    <mxGeometry x="-320" y="420" width="646.5" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Android" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/tablet_pc.svg;" vertex="1" parent="13">
+                    <mxGeometry x="570" y="40" width="58.4" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Web Page" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home_page.svg;" vertex="1" parent="13">
+                    <mxGeometry x="23.5" y="40" width="100" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Backend&lt;br&gt;Support" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.77;dx=39.33;direction=north;notch=0;fillColor=none;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+                    <mxGeometry x="-33.5" y="605" width="70" height="235" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="Web Frontend Server" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/mainframe_host.svg;" vertex="1" parent="1">
+                    <mxGeometry x="-300.9" y="720" width="93.6" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="Support" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.77;dx=39.33;direction=north;notch=0;fillColor=none;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="-288.2" y="550" width="68.2" height="165" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="Admin Frontend" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/my_sites.svg;fillColor=none;gradientColor=none;imageBackground=none;" vertex="1" parent="1">
+                    <mxGeometry x="395.03" y="1300" width="155.55" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.75;dx=26.32;fillColor=none;rotation=45;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+                    <mxGeometry x="-30" y="1090" width="489.79" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.77;dx=21.33;fillColor=none;rotation=-90;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+                    <mxGeometry x="215.85" y="1015.85" width="491.7" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
