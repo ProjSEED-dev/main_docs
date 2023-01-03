@@ -8,7 +8,7 @@ About this repo:
 
 
 
-# Little words about ProjSEED
+# About ProjSEED
 
 ProjSEED is a open-source project for ACGMN (Anime+Comic+Game+Music+Novel) CMS (Content Manager System), with content fetching support.
 
