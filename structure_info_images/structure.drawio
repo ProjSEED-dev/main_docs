@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="c7vK5FcR2kVbPoGVOjvT" name="Page-1">
-        <mxGraphModel dx="1284" dy="1139" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="2564" dy="1139" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -52,7 +52,7 @@
                 <mxCell id="19" value="Support" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.77;dx=39.33;direction=north;notch=0;fillColor=none;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
                     <mxGeometry x="-288.2" y="550" width="68.2" height="165" as="geometry"/>
                 </mxCell>
-                <mxCell id="21" value="Admin Frontend&lt;br&gt;(Lena)" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/my_sites.svg;fillColor=none;gradientColor=none;imageBackground=none;" parent="1" vertex="1">
+                <mxCell id="21" value="Admin Frontend&lt;br&gt;(Vladilena)" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/my_sites.svg;fillColor=none;gradientColor=none;imageBackground=none;" parent="1" vertex="1">
                     <mxGeometry x="395.03" y="1300" width="155.55" height="140" as="geometry"/>
                 </mxCell>
                 <mxCell id="22" value="Control" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.75;dx=26.32;fillColor=none;rotation=45;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
